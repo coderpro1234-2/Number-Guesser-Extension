@@ -1,0 +1,13 @@
+{
+    "name": "Number Guesser",
+    "description": "Fun Game",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "32": "icon.png",
+        "128": "bigicon.png"
+    }
+}
